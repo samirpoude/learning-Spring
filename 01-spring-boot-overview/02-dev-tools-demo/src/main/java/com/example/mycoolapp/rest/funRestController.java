@@ -23,4 +23,10 @@ public class funRestController {
     public String getDailyPrayer(){
         return "pray the lord, then break the law!";
     }
+
+
+    @GetMapping("/motivation")
+    public String getQuote(){
+        return "Success seems to be largely a matter of hanging on after others have let go.";
+    }
 }
