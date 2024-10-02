@@ -11,36 +11,52 @@ This project serves as a collection of my progress and knowledge as I dive deep 
 
 📚 Topics Covered
 
- Spring Boot Basics
+Spring Boot Basics
 
-1.What is Spring Boot? 🤔
+🤔 What is Spring Boot?
 
-2.Creating a Project with Spring Boot Initializr ⚙️
+⚙️ Creating a Project with Spring Boot Initializr
 
-3.Developing REST API Controllers 📡
+📡 Developing REST API Controllers
 
-4.Exploring the Spring Boot Project Structure 🗂️
+🗂️ Exploring the Spring Boot Project Structure
 
-5.Utilizing Spring Boot Starters 📚
+📚 Utilizing Spring Boot Starters
 
-6.Inheriting Defaults with Spring Boot Starter Parents 👨‍👩‍👦
-
-
+👨‍👩‍👦 Inheriting Defaults with Spring Boot Starter Parents
 
 Advanced Features
 
+🔄 Automatic Restart with Spring Boot Dev Tools
 
-1.Automatic Restart with Spring Boot Dev Tools 🔄
+⚡ Integrating DevOps functionality with Spring Boot Actuator Endpoints
 
-2.Integrating DevOps functionality with Spring Boot Actuator Endpoints ⚡
+🔒 Securing Spring Boot Actuator Endpoints
 
-3.Securing Spring Boot Actuator Endpoints 🔒
+🖥️ Running Spring Boot apps from the Command-Line
 
-4.Running Spring Boot apps from the Command-Line 🖥️
+📦 Packaging and running Spring Boot apps with the Maven Plugin
 
-5.Packaging and running Spring Boot apps with the Maven Plugin 📦
+🛠️ Injecting custom application properties into a REST Controller
 
-6.Injecting custom application properties into a REST Controller 🛠️
+
+Spring Core
+
+🏗️ Building a complete Spring MVC & Hibernate/JPA CRUD Project from scratch
+
+🛠️ Setting up Spring Boot and Hibernate/JPA
+
+🔄 Wiring beans together using Inversion of Control (IoC)
+
+💡 Configuring the Spring container for Dependency Injection
+
+📚 Defining Spring Beans using the @Component annotation
+
+🔍 Performing auto-scanning of Spring Beans to minimize configuration
+
+🔧 Automatically wiring beans using the @Autowired annotation
+
+🛠️ Applying Java configuration to Spring Beans (no XML)
 
 
 
@@ -57,4 +73,13 @@ Maven: Dependency management and project build
 JUnit: Testing and ensuring code quality
 
 Git: Version control and collaboration
+
+
+🌟 Future Learning Goals
+
+1. Integrating more advanced AWS services with Spring Boot.
+
+2. Exploring microservices architecture with Spring Cloud.
+
+3. Enhancing security best practices in Spring Boot applications.
 
